@@ -17,6 +17,6 @@ I'm currently building projects using **React.js** to enhance my web development
 
 
 - 📫 [Email](mailto:thapamagarlaxman72@gmail.com)
-- 💼 [LinkedIn](#https://www.linkedin.com/in/laxman-thapa-magar-53b7422a2/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/laxman-thapa-magar-53b7422a2/)
 
 Let's connect and collaborate on exciting projects! 🚀
