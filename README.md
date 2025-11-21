@@ -6,7 +6,7 @@ I'm an **Electronics Engineering** student currently in my 2nd year at **Pulchow
 
 ## Technologies & Tools
 
-- **Programming Languages:** JavaScript, C, C++
+- **Programming Languages:** Python, Dart, JavaScript, C, C++
 - **Frontend:** HTML, CSS, Tailwind CSS, React.js
 
 ## Current Focus
