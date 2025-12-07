@@ -33,16 +33,11 @@
 
 ### 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/39laxmann)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/laxman-thapa-magar-53b7422a2/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:laxmanthapa3399@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
-![Laxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=39laxmann&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=39laxmann&layout=compact&theme=tokyonight)
-
----
 
 ### ⚡ Fun fact
 > "I like to explore new tech, solve problems, and create small fun projects along the way!" 🚀
