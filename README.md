@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laxman Thapa</h1>
-<h3 align="center">Electronics Engineering Student | Tech Explorer | Curious Coder</h3>
+
 
 ---
 
