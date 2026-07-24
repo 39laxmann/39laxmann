@@ -10,8 +10,7 @@
 ---
 
 ### 🌱 I’m currently learning
-- Advanced **Flutters**  
-- Problem solving using **DSA**
+- Advanced **React Native**
 
 
 ---
@@ -39,5 +38,4 @@
 ---
 
 
-### ⚡ Fun fact
-> "I like to explore new tech, solve problems, and create small fun projects along the way!" 🚀
+
